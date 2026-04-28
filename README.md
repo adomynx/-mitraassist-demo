@@ -5,10 +5,10 @@ Built with Next.js 14, React, Tailwind CSS, and Lucid React.
 
 ## What's inside
 
-- **Login screen** — toggle between Admin and Dealer/Agent
-- **Admin panel** — dashboard, certificates table, users, pricing rules
-- **Dealer panel** — "my certificates" view + new certificate wizard
-- **Certificate preview** — styled to match the real MitraAssist PDF
+- **Login screen** - toggle between Admin and Dealer/Agent
+- **Admin panel** - dashboard, certificates table, users, pricing rules
+- **Dealer panel** - "my certificates" view + new certificate wizard
+- **Certificate preview** - styled to match the real MitraAssist PDF
 
 > All data is in-memory only. Refreshing the page resets everything.
 > This is a UI prototype, not a production system.
