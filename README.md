@@ -1,7 +1,7 @@
-# MitraAssist Portal — Demo
+# MitraAssist Portal - Demo
 
 A clickable prototype of the MitraAssist Service Certificate Portal.
-Built with Next.js 14, React, Tailwind CSS, and lucide-react.
+Built with Next.js 14, React, Tailwind CSS, and Lucid React.
 
 ## What's inside
 
